@@ -1,12 +1,7 @@
-node_modules/
+﻿node_modules/
 dist/
 .env
-.env.local
 __pycache__/
 *.pyc
-*.pyo
-venv/
-.venv/
-.DS_Store
-Thumbs.db
 *.pkl
+.DS_Store
