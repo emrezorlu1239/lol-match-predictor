@@ -1,18 +1,12 @@
-# Node
-node_modules
-dist
+node_modules/
+dist/
 .env
 .env.local
-
-# Python
-__pycache__
+__pycache__/
 *.pyc
-venv
-.venv
-
-# System
+*.pyo
+venv/
+.venv/
 .DS_Store
 Thumbs.db
-
-# ML
 *.pkl
